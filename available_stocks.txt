@@ -1,0 +1,36 @@
+AAPL,Apple Inc.
+MSFT,Microsoft Corporation
+GOOGL,Alphabet Inc.
+AMZN,Amazon.com Inc.
+TSLA,Tesla Inc.
+FB,Meta Platforms Inc.
+NVDA,NVIDIA Corporation
+BRK-B,Berkshire Hathaway Inc.
+JNJ,Johnson & Johnson
+Visa,Visa Inc.
+WU,Western Union Co.
+WMT,Walmart Inc.
+PG,Procter & Gamble Co.
+MA,Mastercard Inc.
+DIS,Walt Disney Co.
+PYPL,PayPal Holdings Inc.
+RELIANCE.NS,Reliance Industries Ltd.
+TCS.NS,Tata Consultancy Services Ltd.
+HDFCBANK.NS,HDFC Bank Ltd.
+INFY.NS,Infosys Ltd.
+HINDUNILVR.NS,Hindustan Unilever Ltd.
+ICICIBANK.NS,ICICI Bank Ltd.
+KOTAKBANK.NS,Kotak Mahindra Bank Ltd.
+AXISBANK.NS,Axis Bank Ltd.
+LT.NS,Larsen & Toubro Ltd.
+SBIN.NS,State Bank of India
+BAJFINANCE.NS,Bajaj Finance Ltd.
+BHARTIARTL.NS,Bharti Airtel Ltd.
+ITC.NS,ITC Ltd.
+MARUTI.NS,Maruti Suzuki India Ltd.
+ASIANPAINT.NS,Asian Paints Ltd.
+HCLTECH.NS,HCL Technologies Ltd.
+WIPRO.NS,Wipro Ltd.
+SUNPHARMA.NS,Sun Pharmaceutical Industries Ltd.
+ONGC.NS,Oil and Natural Gas Corporation Ltd.
+NTPC.NS,NTPC Ltd.

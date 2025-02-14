@@ -1,0 +1,20 @@
+EURUSD,Euro/US Dollar
+GBPUSD,Pound/US Dollar
+USDJPY,US Dollar/Japanese Yen
+USDCAD,US Dollar/Canadian Dollar
+AUDUSD,Australian Dollar/US Dollar
+NZDUSD,New Zealand Dollar/US Dollar
+USDCHF,US Dollar/Swiss Franc
+EURGBP,Euro/Pound
+EURJPY,Euro/Japanese Yen
+GBPJPY,Pound/Japanese Yen
+USDINR,US Dollar/Indian Rupee
+EURINR,Euro/Indian Rupee
+GBPINR,Pound/Indian Rupee
+JPYINR,Japanese Yen/Indian Rupee
+AUDINR,Australian Dollar/Indian Rupee
+CADINR,Canadian Dollar/Indian Rupee
+CHFINR,Swiss Franc/Indian Rupee
+SGDINR,Singapore Dollar/Indian Rupee
+MYRINR,Malaysian Ringgit/Indian Rupee
+CNYINR,Chinese Yuan/Indian Rupee
